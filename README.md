@@ -1,6 +1,6 @@
-# nonsense`:wq
+# nonsense
 
-A project.
+Generating nonsense.
 
 ## Copyright and License
 
